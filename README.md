@@ -1,2 +1,2 @@
 # MultiQ
-MultiQ-IT Ion Trap Simulator A specialized tool for simulating ion motion within a 486-quadrupole MultiQ-IT ion trap.  Features Designed for mass spectrometrists seeking insights into ion behavior within quadrupole ion traps.
+An ad hoc computer program developed using Processing and Java to simulate ion motion within a 486-quadrupole MultiQ-IT ion trap.
