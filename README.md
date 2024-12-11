@@ -48,7 +48,7 @@ This _ad hoc_ program, developed in **Processing** and **Java**, simulates ion m
 ---
 
 ### **Step 4: Load Precalculated Potentials**
-1. Place the generated `RF` (~100MB) and `DC` (~100MB) files in the `Demiurge_MultiQ_486` folder.
+1. Save the generated `RF` (~100MB) and `DC` (~100MB) files in the `Demiurge_MultiQ_486` folder.
 2. Run the program and press **F2** to open the options menu.
 3. Select **"Load Precalculated Potentials"** to load the potential arrays into memory.
 
