@@ -18,7 +18,7 @@ This _ad hoc_ program, developed in **Processing** and **Java**, simulates ion m
 ### 3. **Run the Program**
 - Open `Demiurge_MultiQ_486.pde` in Processing.
 - Run the program.
-- A window titled **Demiurge_MultiQ_486** will appear.
+- A xanvas window titled **Demiurge_MultiQ_486** will appear.
 
 ---
 
