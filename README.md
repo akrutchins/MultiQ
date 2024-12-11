@@ -6,14 +6,14 @@ This _ad hoc_ program, developed in **Processing** and **Java**, simulates ion m
 
 ## **Setup Instructions**
 
-### 1. **Download Files**
-- Download all `*.pde` files.
-- Place them in a folder named `Demiurge_MultiQ_486` on your computer.
-
-### 2. **Install Processing**
+### 1. **Install Processing**
 - Install **Processing 4.3** (latest version as of December 2024).
 - Earlier versions may work but are untested.
 - Supported operating systems: **Windows 11**, **Linux** and **MacOS**
+  
+### 2. **Download Files**
+- Download all `*.pde` files.
+- Place them in a folder named `Demiurge_MultiQ_486` on your computer.
 
 ### 3. **Run the Program**
 - Open `Demiurge_MultiQ_486.pde` in Processing.
