@@ -1,8 +1,6 @@
 # **Instructions for Using the Demiurge_MultiQ-IT_486 Ion Trap Simulator**
 
-This _ad hoc_ program, developed in **Processing** and **Java**, simulates ion motion within a 486-quadrupole MultiQ-IT ion trap. For detailed descriptions of the underlying computer model, refer to:  
-**A.N. Krutchinsky, I.V. Chernushevich, V.L. Spicer, W. Ens, K.G. Standing.** *Collisional Damping Interface for an Electrospray Ionization Time-of-Flight Mass Spectrometer*, **Journal of the American Society for Mass Spectrometry**, Volume 9, Issue 6, June 1998, Pages 569–579.
-
+This _ad hoc_ program, developed in **Processing** and **Java**, simulates ion motion within a 486-quadrupole MultiQ-IT ion trap. The computer model is based on the work by **A.N. Krutchinsky, I.V. Chernushevich, V.L. Spicer, W. Ens, and K.G. Standing**:  *Collisional Damping Interface for an Electrospray Ionization Time-of-Flight Mass Spectrometer*,  **Journal of the American Society for Mass Spectrometry**, Volume 9, Issue 6, June 1998, Pages 569–579. 
 ---
 
 ## **Setup Instructions**
